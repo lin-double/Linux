@@ -35,5 +35,4 @@ int main()
 		write(fd[1],"hello world",13);
 	}
 	return 0;
-
 }
